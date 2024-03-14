@@ -10,11 +10,12 @@ export default function Hero() {
             <div className="col-lg-12">
               <div className="hero-style7 text-center">
                 <h1 className="hero-title wow img-custom-anim-top animated text-smoke">
-                  We Help to Grow Your Business
+                  Empower Your Digital Presence with Wake Up Media
                 </h1>
                 <p className="hero-text wow img-custom-anim-top animated text-smoke">
-                  We are digital agency that helps businesses develop immersive
-                  and engaging user experiences that drive top level growth
+                  Wake Up Media specializes in custom digital marketing solutions aimed at enhancing your brand's 
+                  visibility and making it stand out online. Our mission revolves around empowering businesses by 
+                  developing engaging digital stories and fostering strong customer relationships for lasting digital success.
                 </p>
               </div>
             </div>
